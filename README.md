@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm Angel Novo
 #### Full stack developer
-I'm Angel from Spain and I am a proud web developer. Currently working on becoming a full stack developer just by creating tons of projects. I also love creating huge projects just for fun!
+I'm Angel from Spain and I am a proud web developer. Currently working on becoming a full stack developer just by creating tons of projects. 
+I also love creating huge projects just for fun!
+I don't fear working with big frameworks as i am a fast learner.
+
 
 [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-del-dev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,7 +14,7 @@ I'm Angel from Spain and I am a proud web developer. Currently working on becomi
 * ☕ Java / SpringBoot
 
 - 🔭 I’m currently working on a good looking and functional personal portfolio
-- 👯 I’m looking to collaborate on some projects 
+- 👯 I’m looking to collaborate on any project you might have!
 - 😄 Pronouns: He/Him 
 
 
