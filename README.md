@@ -10,7 +10,7 @@ I'm Angel from Spain and I am a proud web developer. Currently working on becomi
 * 🐍Python
 * ☕ Java / SpringBoot
 
-- 🔭 I’m currently working on a really big project with other 5 developers 
+- 🔭 I’m currently working on a good looking and functional personal portfolio
 - 👯 I’m looking to collaborate on some projects 
 - 😄 Pronouns: He/Him 
 
