@@ -8,8 +8,8 @@ I don't fear working with big frameworks as i am a fast learner.
 Skills:   
 * 💻 HTML / CSS / Sass / JS / JQUERY / PHP / Laravel  
 * ⚛ React   
-* * 🐍Python   
-* * ☕ Java / SpringBoot
+* 🐍Python   
+* ☕ Java / SpringBoot
 
 - 🔭 I’m currently working on a good looking and functional personal portfolio 
 - 👯 I’m looking to collaborate on any project you might have! 
