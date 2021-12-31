@@ -8,7 +8,7 @@ I don't fear working with big frameworks as i am a fast learner.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-del-dev&show_icons=true)  
 
 Skills:   
-* 💻 HTML / CSS / Sass / JS / JQUERY / PHP / Laravel  
+* 💻 HTML / CSS / Sass-Scss / JS / JQUERY / PHP / Laravel  
 * ⚛ React   
 * 🐍Python   
 * ☕ Java / SpringBoot
