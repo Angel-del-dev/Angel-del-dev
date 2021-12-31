@@ -15,9 +15,6 @@ Skills:
 - 👯 I’m looking to collaborate on any project you might have! 
 - 😄 Pronouns: He/Him  
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Angel-del-dev)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-del-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-del-dev&show_icons=true)  
