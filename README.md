@@ -5,19 +5,19 @@ I'm Angel from Spain and I am a proud web developer. Currently working on becomi
 I also love creating huge projects just for fun!
 I don't fear working with big frameworks as i am a fast learner.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-del-dev&show_icons=true)  
+
 Skills:   
 * 💻 HTML / CSS / Sass / JS / JQUERY / PHP / Laravel  
 * ⚛ React   
 * 🐍Python   
 * ☕ Java / SpringBoot
 
-- 🔭 I’m currently working on a good looking and functional personal portfolio 
-- 👯 I’m looking to collaborate on any project you might have! 
-- 😄 Pronouns: He/Him  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-del-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-del-dev&show_icons=true)  
+- 🔭 I’m currently working on a good looking and functional personal portfolio 
+- 👯 I’m looking to collaborate on any project you might have! 
+- 😄 Pronouns: He/Him 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Angel-del-dev)  
 
