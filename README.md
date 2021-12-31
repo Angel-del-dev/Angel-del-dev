@@ -5,7 +5,11 @@ I'm Angel from Spain and I am a proud web developer. Currently working on becomi
 I also love creating huge projects just for fun!
 I don't fear working with big frameworks as i am a fast learner.
 
-Skills: * 💻 HTML / CSS / Sass / JS / JQUERY / PHP / Laravel * ⚛ React * 🐍Python * ☕ Java / SpringBoot
+Skills:   
+* 💻 HTML / CSS / Sass / JS / JQUERY / PHP / Laravel  
+* ⚛ React   
+* * 🐍Python   
+* * ☕ Java / SpringBoot
 
 - 🔭 I’m currently working on a good looking and functional personal portfolio 
 - 👯 I’m looking to collaborate on any project you might have! 
