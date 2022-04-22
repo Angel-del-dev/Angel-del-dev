@@ -15,8 +15,8 @@ Skills:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-del-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on a good looking and functional personal portfolio 
-- 👯 I’m looking to collaborate on any open source or private project 
+- 🔭 I’m currently working on a php framework
+- 👯 I’m looking to collaborate
 - 😄 Pronouns: He/Him 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Angel-del-dev)  
