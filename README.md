@@ -15,7 +15,7 @@ Skills:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-del-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working [Gravity](https://github.com/Angel-del-dev/Gravity)
+- 🔭 I’m currently working on [Gravity](https://github.com/Angel-del-dev/Gravity)
 - 👯 I’m looking to collaborate
 - 😄 Pronouns: He/Him 
 
