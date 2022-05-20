@@ -9,9 +9,7 @@ I don't fear working with big frameworks as i am a fast learner.
 
 Skills:   
 * 💻 HTML / CSS / Sass-Scss / JS / JQUERY / PHP / Laravel  
-* ⚛ React   
 * 🐍Python   
-* ☕ Java / SpringBoot
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-del-dev)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,5 +21,5 @@ Skills:
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Angel-del-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angel-novo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/angel_novo_fernando)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13353340/the-cat-broken)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Angel-del-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angel-novo) 
 
