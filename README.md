@@ -1,21 +1,19 @@
-### Hi there 👋, Hi there 👋, I'm Angel Novo
-#### Full stack developer
+### Saludos 👋, saludos 👋, Soy Àngel Novo
+#### Backend developer
 
-I'm Angel from Spain and I am a proud web developer. Currently working on becoming a full stack developer just by creating tons of projects. 
-I also love creating huge projects just for fun!
-I don't fear working with big frameworks as i am a fast learner.
+Soy un programador junior de España. Intento mejorar mis habilidades dia a dia con proyectos y problemas de programación. 
+Se me da bien aprender lenguajes de programación y frameworks nuevos.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-del-dev&show_icons=true)  
 
-Skills:   
+Habilidades:   
 * 💻 HTML / CSS / Sass-Scss / JS / JQUERY / PHP / Laravel  
 * 🐍Python   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-del-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on [Gravity](https://github.com/Angel-del-dev/Gravity)
-- 👯 I’m looking to collaborate
-- 😄 Pronouns: He/Him 
+- 🔭 Actualmente estoy desarrollando [Gravity](https://github.com/Angel-del-dev/Gravity)
+- 👯 Estoy abierto a colaborar
 
 
 
