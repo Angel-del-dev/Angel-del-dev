@@ -21,4 +21,5 @@ Habilidades:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Angel-del-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs]([https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAngel-del-dev1212%2Fhit-counter])](https://github.com/anuraghazra/github-readme-stats)
+
+[![Test]([https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-del-dev](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAngel-del-dev1212%2Fhit-counter))](https://github.com/anuraghazra/github-readme-stats)
