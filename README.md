@@ -20,6 +20,3 @@ Habilidades:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Angel-del-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angel-novo) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Angel-del-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<img width='200' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAngel-del-dev%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
