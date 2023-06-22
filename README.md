@@ -7,12 +7,12 @@ Se me da bien aprender lenguajes de programación y frameworks nuevos.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-del-dev&show_icons=true)  
 
 Habilidades:   
-* 💻 HTML / CSS / Sass-Scss / JS / JQUERY / PHP / Laravel  
-* 🐍Python   
+* 💻 HTML / CSS / Sass-Scss / JS / JQUERY / PHP / Laravel / Node / Express / React  
+* 🐍Python, 💻V lang   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-del-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 Actualmente estoy desarrollando un lenguaje de programación esotérico llamado [JSON++](https://github.com/Angel-del-dev/JSONpp)
+- 🔭 Actualmente estoy desarrollando una base de datos completamente en V [v_databse]([https://github.com/Angel-del-dev/JSONpp](https://github.com/Angel-del-dev/v_database))
 - 👯 Estoy abierto a colaborar
 
 
