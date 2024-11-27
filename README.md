@@ -19,17 +19,18 @@ Soy un entusiasta de los lenguajes de programación.
     + 🖥️ Mysql / **FirebirdSql**
 
 ## 📖 Aprendiendo
-- Golang, específicamente en el ámbito de los `WebSockets`
+- Delphi para la creación de **GUIs**
 
 ## 🔭Proyectos activos
-- Actualmente estoy desarrollando un sumbodulo web de hojas de cálculo para integrarlo en un proyecto más grande: [Web-Spreadsheet](https://github.com/Angel-del-dev/Web-Spreadsheet)
+- [Achilles Video Player(Delphi)](https://github.com/Angel-del-dev/Custom-Video-Player)
 
 ## 🏃‍♂️Proyectos que demuestran mis habilidades
 
-* [Kraken, un WebCrawler(Vlang)](https://github.com/Angel-del-dev/kraken)
-* [Gravity, un framework fullstack(PHP)](https://github.com/Angel-del-dev/Gravity)
-* [Gravity V2, la última versión de Gravity(PHP)](https://github.com/Angel-del-dev/Gravity-V2)
+* [Achilles Video Player(Delphi)](https://github.com/Angel-del-dev/Custom-Video-Player)
+* [Kraken the WebCrawler(Vlang)](https://github.com/Angel-del-dev/kraken)
+* [Gravity V2, la nueva versión de Gravity(PHP)](https://github.com/Angel-del-dev/Gravity-V2)
 * [Generador de Documentaciones recursivo(Vlang)](https://github.com/Angel-del-dev/code_docs_generator)
+* [Gravity, un framework fullstack(PHP)](https://github.com/Angel-del-dev/Gravity)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-del-dev)](https://github.com/anuraghazra/github-readme-stats)
