@@ -22,11 +22,11 @@ Soy un entusiasta de los lenguajes de programación.
 - Delphi para la creación de **GUIs**
 
 ## 🔭Proyectos activos
-- [Achilles Video Player(Delphi)](https://github.com/Angel-del-dev/Custom-Video-Player)
+- [Achilles Video Player(Delphi)](https://github.com/Angel-del-dev/Achilles)
 
 ## 🏃‍♂️Proyectos que demuestran mis habilidades
 
-* [Achilles Video Player(Delphi)](https://github.com/Angel-del-dev/Custom-Video-Player)
+* [Achilles Video Player(Delphi)](https://github.com/Angel-del-dev/Achilles)
 * [Kraken the WebCrawler(Vlang)](https://github.com/Angel-del-dev/kraken)
 * [Gravity V2, la nueva versión de Gravity(PHP)](https://github.com/Angel-del-dev/Gravity-V2)
 * [Generador de Documentaciones recursivo(Vlang)](https://github.com/Angel-del-dev/code_docs_generator)
