@@ -14,15 +14,18 @@ Soy un entusiasta de los lenguajes de programación.
 * Frontend
     * 👁️ **JS** / JQuery
 * Backend
-    + 💻 **PHP** / Golang / Vlang 
+    + 💻 **PHP** / ~~Golang~~ / Vlang 
 * Bases de datos
-    + 🖥️ Mysql / **FirebirdSql**
-
-## 📖 Aprendiendo
-- Delphi para la creación de **GUIs**
+    + 🖥️ Mysql / **FirebirdSql** / Sqlite3
+* Aprendiendo
+    + 🏫 Delphi
 
 ## 🔭Proyectos activos
 - [Achilles Backup Manager(Delphi)](https://github.com/Angel-del-dev/Achilles-Backup-Manager)
+
+## 💼 Achilles suite
+* [Achilles Video Player](https://github.com/Angel-del-dev/Achilles)
+* [Achilles Backup Manager(En desarrollo)](https://github.com/Angel-del-dev/Achilles-Backup-Manager)
 
 ## 🏃‍♂️Proyectos que demuestran mis habilidades
 
