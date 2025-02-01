@@ -20,15 +20,15 @@ Soy un entusiasta de los lenguajes de programación.
 * Aprendiendo
     + 🏫 Delphi
 
-## 🔭Proyectos activos
-- [Achilles Backup Manager(Delphi)](https://github.com/Angel-del-dev/Achilles-Backup-Manager)
+<!--## 🔭Proyectos activos-->
+
 
 ## 💼 Achilles suite
 * [Achilles Video Player](https://github.com/Angel-del-dev/Achilles)
-* [Achilles Backup Manager(En desarrollo)](https://github.com/Angel-del-dev/Achilles-Backup-Manager)
+* [Achilles Backup Manager](https://github.com/Angel-del-dev/Achilles-Backup-Manager)
 
 ## 🏃‍♂️Proyectos que demuestran mis habilidades
-
+* [Achilles Backup Manager(Delphi)](https://github.com/Angel-del-dev/Achilles-Backup-Manager)
 * [Achilles Video Player(Delphi)](https://github.com/Angel-del-dev/Achilles)
 * [Kraken the WebCrawler(Vlang)](https://github.com/Angel-del-dev/kraken)
 * [Gravity V2, la nueva versión de Gravity(PHP)](https://github.com/Angel-del-dev/Gravity-V2)
