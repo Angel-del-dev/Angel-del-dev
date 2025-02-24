@@ -1,26 +1,26 @@
-### Saludos 👋, Soy Àngel Novo
-Actual puesto de trabajo: [**Desarrollador fullstack**](https://www.linkedin.com/in/angel-novo/)
+### Hi 👋 I'm Àngel Novo
+Current job: [**Desarrollador fullstack**](https://www.linkedin.com/in/angel-novo/)
 
-Soy un **desarrollador web** de España.  
-Suelo crear librerias en mi tiempo libre.  
+I'm a Spanish **Web developer**  
 
-En mi actual puesto de trabajo me dedico un poco a todo, desde Frontend hasta Backend, pasando por un poco de Diseño y Gestión de bases de datos.
+In my current job, I basically do a bit of everything.
+From **Frontend** to **Backend**, sprinkling a bit of **Design** and managing **Databases**
 
-Soy un entusiasta de los lenguajes de programación.
+I'm a **Programming language** enthusiast who enjoys learning different technologies just for fun
 
-## Habilidades   
-* Estilos
+## Skills   
+* Styles
     + 🖌️ **CSS** / Sass-Scss / Bootstrap
 * Frontend
     * 👁️ **JS** / JQuery
 * Backend
     + 💻 **PHP** / ~~Golang~~ / Vlang 
-* Bases de datos
+* Databases
     + 🖥️ Mysql / **FirebirdSql** / Sqlite3
-* Aprendiendo
+* Learning
     + 🏫 Delphi
 
-## 🔭Proyectos activos
+## 🔭Active projects
 * [PHP-Multiple-DB-Server-interface](https://github.com/Angel-del-dev/PHP-Multiple-DB-Server-interface)
 
 
@@ -28,19 +28,14 @@ Soy un entusiasta de los lenguajes de programación.
 * [Achilles Video Player](https://github.com/Angel-del-dev/Achilles)
 * [Achilles Backup Manager](https://github.com/Angel-del-dev/Achilles-Backup-Manager)
 
-## ✅ Contribuciones
+## ✅ Contributions
 * [Vlang website](https://github.com/vlang/website/pulls?q=author%3AAngel-del-dev)
 
 
-## 🏃‍♂️Proyectos que demuestran mis habilidades
+## 🏃‍♂️Projects to show my skills
 * [Achilles Backup Manager(Delphi)](https://github.com/Angel-del-dev/Achilles-Backup-Manager)
 * [Achilles Video Player(Delphi)](https://github.com/Angel-del-dev/Achilles)
 * [Kraken the WebCrawler(Vlang)](https://github.com/Angel-del-dev/kraken)
-* [Gravity V2, la nueva versión de Gravity(PHP)](https://github.com/Angel-del-dev/Gravity-V2)
-* [Generador de Documentaciones recursivo(Vlang)](https://github.com/Angel-del-dev/code_docs_generator)
-* [Gravity, un framework fullstack(PHP)](https://github.com/Angel-del-dev/Gravity)
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-del-dev)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Angel-del-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+* [Gravity V2, the newest version of Gravity(PHP)](https://github.com/Angel-del-dev/Gravity-V2)
+* [Recursive docs generator(Vlang)](https://github.com/Angel-del-dev/code_docs_generator)
+* [Gravity, a fullstack framework(PHP)](https://github.com/Angel-del-dev/Gravity)
