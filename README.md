@@ -9,7 +9,7 @@ En mi actual puesto de trabajo me dedico un poco a todo, desde Frontend hasta Ba
 Soy un entusiasta de los lenguajes de programación.
 
 ## Habilidades   
-* Diseño
+* Estilos
     + 🖌️ **CSS** / Sass-Scss / Bootstrap
 * Frontend
     * 👁️ **JS** / JQuery
@@ -27,6 +27,10 @@ Soy un entusiasta de los lenguajes de programación.
 ## 💼 Achilles suite
 * [Achilles Video Player](https://github.com/Angel-del-dev/Achilles)
 * [Achilles Backup Manager](https://github.com/Angel-del-dev/Achilles-Backup-Manager)
+
+## ✅ Contribuciones
+* [Vlang website](https://github.com/vlang/website/pulls?q=author%3AAngel-del-dev)
+
 
 ## 🏃‍♂️Proyectos que demuestran mis habilidades
 * [Achilles Backup Manager(Delphi)](https://github.com/Angel-del-dev/Achilles-Backup-Manager)
