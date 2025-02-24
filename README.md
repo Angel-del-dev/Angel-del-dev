@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Àngel Novo
-Current job: [**Desarrollador fullstack**](https://www.linkedin.com/in/angel-novo/)
+Current job: [**Fullstack developer**](https://www.linkedin.com/in/angel-novo/)
 
 I'm a Spanish **Web developer**  
 
