@@ -6,7 +6,7 @@ I'm a Spanish **Web developer**
 In my current job, I basically do a bit of everything.
 From **Frontend** to **Backend**, sprinkling a bit of **Design** and managing **Databases**
 
-I'm a **Programming language** enthusiast who enjoys learning different technologies just for fun
+I love understanding how technologies work under the hood, thats why in my public repositories you will find custom frameworks, libraries and probably even languages.
 
 ## ✅ Contributions
 * [Vlang website](https://github.com/vlang/website/pulls?q=author%3AAngel-del-dev)
