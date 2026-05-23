@@ -43,6 +43,19 @@ These services are designed to work together and depend on each other.
 
 ---
 
+### 🤖 [AI-market-intelligence-engine](https://github.com/Angel-del-dev/ai-market-intelligence-engine)
+
+A dual-AI financial intelligence system that combines time-series forecasting and 
+LLM-based market reasoning
+ 
+
+* Built with Python + Prophet + Qwen3.5 9B
+* Local models
+* Market predictions based on dataset
+* Automatic report generation and broadcasting
+
+---
+
 ## 🚀 Current Focus
 
 * Transitioning into **Backend Engineering**
